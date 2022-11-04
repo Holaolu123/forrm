@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hovv{
+   background-color: green;
+   height: 100vh;
+   padding: 3em 5%;
+}
+
+.fform{
+    background-color: white;
+    padding: 3em 5%;
+    margin: auto;
+    width: 40%;
+}
+
+.fft{
+    text-align: center;
+    color: white;
+}
+.fft a{
+    color: white;
+}
+
+button{
+    width: 100px;
+    height: 7vh;
+}
+.rtt{
+    color: green;
+}
